@@ -11,7 +11,7 @@ Scenario Outline: Add items to cart
 		Examples:
 		|item|
 		|Nokia lumia 1520|
-        |Iphone 6 32gb|
+                |Iphone 6 32gb|
 	
 Scenario: Delete an Item
 When List of items should be available in Cart
